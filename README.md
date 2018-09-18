@@ -8,7 +8,7 @@ My role is about:
 * Helping you to become what *you* want to become
 * Ensuring that architecturally we are heading towards organisational goals 
 
-I am not hands-off. I do like to be involved in pairing and technical decisions within the team.  But I do this as an equal, not as a micro-manager.
+I am not completely hands-off. I do like to be involved in technical decisions and occasionally I may get to pair with you. But I do this as an equal, not as a micro-manager.
 
 ## 1-2-1 meetings
 I will schedule in a weekly 30 min meeting with you.  But this is *your* time to discuss anything that is important to you.  These have been used for talking through problem/challenges, chatting about short/long term career goals or just generally catching up.
